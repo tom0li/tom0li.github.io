@@ -17,8 +17,6 @@ My friends
   小黑屋: http://das.scusec.org/ 
   chybeta: https://chybeta.github.io/
   congrong: http://www.thinkings.org/ 
-  王松: http://www.hackersb.cn/ 
-  cnbraid: http://www.cnbraid.com 
   Blood_Zer0: http://www.bloodzer0.com/ 
   Medici.Yan: http://blog.evalbug.com/ 
   零の杂货铺: http://phantom0301.cc/archives/   

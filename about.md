@@ -17,10 +17,10 @@ My Name is tom0li.
 ### 关于我
 
 - 工作: 某云安全工程师
-- 我的博客: [tom0li.github.io](https://tom0li.github.io/)
-- 收藏的文档链接: [documents](https://github.com/tom0li/collection-document)
+- 我的博客: [tom0li.github.io](https://tom0li.github.io/) 记录一些生活上的所思和探索、一些网络安全相关内容。
+- 收藏的文档: [documents](https://github.com/tom0li/collection-document) 收集一些优质安全博客文章，美好生活指南等。
 - 联系我: tom0li#qq.com
-         
+  
 ### 记录鉴语
 遍历学习 - by TK  <br>
 学习各科，寻找罗格斯 - by tom0li  <br>

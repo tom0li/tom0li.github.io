@@ -4,14 +4,12 @@ title:
 permalink: /about/
 ---
 
-My Name is tom0li.
-
 ### About Me 👋
 
 - 🔭 I’m currently working on Alibaba Cloud.
 - 🌱 I’m currently learning Cloud security.
-- :camera: [My blog](https://tom0li.github.io/). Record something interesting.
-- :pencil2: Record some of the [documents](https://github.com/tom0li/collection-document) viewed.
+- 📷 [My blog](https://tom0li.github.io/). Record something interesting.
+- ✏️  Record some of the [documents](https://github.com/tom0li/collection-document) viewed.
 - 📫 How to reach me: tom0li#qq.com
 
 ### 关于我

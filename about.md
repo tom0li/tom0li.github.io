@@ -6,11 +6,20 @@ permalink: /about/
 
 My Name is tom0li.
 
-### Information
+### About Me 👋
 
-喜欢折腾的技术宅。一点点 geek，white hat hacker, <br>
-         一丢丢的执著，就像逐鹿。<br>
-         ——tom0li
+- 🔭 I’m currently working on Alibaba Cloud.
+- 🌱 I’m currently learning Cloud security.
+- :camera: [My blog](https://tom0li.github.io/). Record something interesting.
+- :pencil2: Record some of the [documents](https://github.com/tom0li/collection-document) viewed.
+- 📫 How to reach me: tom0li#qq.com
+
+### 关于我
+
+- 工作: 某云安全工程师
+- 我的博客: [tom0li.github.io](https://tom0li.github.io/)
+- 收藏的文档链接: [documents](https://github.com/tom0li/collection-document)
+- 联系我: tom0li#qq.com
          
 ### 记录鉴语
 遍历学习 - by TK  <br>
@@ -25,6 +34,3 @@ My Name is tom0li.
 信息收集能力，做重大选择需要、找女朋友需要。 - by tom0li  <br>
 帮助他人建设安全体系很重要，同时也不要忘记建设自己的安全体系(包括身体)。 -by  tom0li  <br>
 
-### Contact me
-
-[tom0li#qq.com](mailto:tom0li#qq.com)

@@ -10,7 +10,7 @@ permalink: /about/
 - ✏️  Record some of the [documents](https://github.com/tom0li/collection-document) viewed.
 - 📫 How to reach me: tom0li#qq.com
 
-## 关于我
+# 关于我
 
 - 工作: 某云安全工程师
 - 我的博客: [tom0li.github.io](https://tom0li.github.io/) 记录一些生活上的所思和探索、一些网络安全相关内容。
@@ -29,4 +29,4 @@ permalink: /about/
 一个更好的自己，那它便永远不会失败！ - by 大飞  <br>
 信息收集能力，做重大选择需要、找女朋友需要。 - by tom0li  <br>
 帮助他人建设安全体系很重要，同时也不要忘记建设自己的安全体系(包括身体)。 -by  tom0li  <br>
-
+不干扰事物发展方向，客观观察判断 -by tom0li  <br>

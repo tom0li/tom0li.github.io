@@ -6,17 +6,18 @@ permalink: /about/
 
 - 🔭 I’m currently working on Alibaba Cloud.
 - 🌱 I’m currently learning Cloud security.
-- 📷 [My blog](https://tom0li.github.io/). Record something interesting.
-- ✏️  Record some of the [documents](https://github.com/tom0li/collection-document) viewed.
+- :camera: [My blog](https://tom0li.github.io/). Record something interesting.
+- :pencil2: Record some of the [documents](https://github.com/tom0li/collection-document) viewed.
 - 📫 How to reach me: tom0li#qq.com
 
 # 关于我
 
 - 工作: 某云安全工程师
-- 我的博客: [tom0li.github.io](https://tom0li.github.io/) 记录一些生活上的所思和探索、一些网络安全相关内容。
+- 我的博客: [My blog](https://tom0li.github.io/) 记录一些生活上的所思和探索、一些网络安全相关内容。
 - 收藏的文档: [documents](https://github.com/tom0li/collection-document) 收集一些优质安全博客文章，美好生活指南等。
+- 知识星球: [红蓝对抗星球](https://t.zsxq.com/JuzZjAQ) 分享内容不设限。
 - 联系我: tom0li#qq.com
-  
+
 ### 记录鉴语
 遍历学习 - by TK  <br>
 学习各科，寻找罗格斯 - by tom0li  <br>
@@ -30,3 +31,4 @@ permalink: /about/
 信息收集能力，做重大选择需要、找女朋友需要。 - by tom0li  <br>
 帮助他人建设安全体系很重要，同时也不要忘记建设自己的安全体系(包括身体)。 -by  tom0li  <br>
 不干扰事物发展方向，客观观察判断 -by tom0li  <br>
+定期抽时间思考 -by tom0li  <br>

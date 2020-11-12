@@ -1,5 +1,8 @@
 ---
 title: 初探M1 card
+description: M1 card 原理介绍
+tagline: M1/卡/card/RFID/高频/IC
+author: tom0li
 date: 2016-11-11 8:50:30
 tags: RFID
 toc: true

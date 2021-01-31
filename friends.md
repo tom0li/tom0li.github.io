@@ -14,19 +14,11 @@ My friends
   90sec: https://forum.90sec.com/
   t00ls: https://www.t00ls.net/
   先知: https://xz.aliyun.com/
-  小黑屋: http://das.scusec.org/ 
-  chybeta: https://chybeta.github.io/
-  congrong: http://www.thinkings.org/ 
-  Blood_Zer0: http://www.bloodzer0.com/ 
-  零の杂货铺: http://phantom0301.cc/archives/   
-  勾陈安全实验室: http://www.polaris-lab.com/ 
-  bsmali4的小窝: http://www.codersec.net/   
-  R4v3zn: https://www.r4v3zn.com/
-  rr: https://ricterz.me/ 
-  Lz1y's blog: http://www.lz1y.cn/
-  LoRexxar: https://lorexxar.cn/
-  re4lity: http://rinige.com/
   知道创宇paper: http://paper.seebug.org/
+  chybeta: https://chybeta.github.io/
+  Lz1y's blog: http://www.lz1y.cn/
   乐枕: https://www.cdxy.me/
+  薇拉航线🌺: https://www.zuozuovera.com/
+  郑翰: https://www.cnblogs.com/littlehann/
   tom0li_blog: https://tom0li.github.io/
 ```

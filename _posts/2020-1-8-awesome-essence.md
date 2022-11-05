@@ -4,7 +4,7 @@ description: Awesome-Essence 3年计划
 tagline: Awesome-Essence/Plan/Awesome/Essence/原理/规则/规律/逻辑/Logic/背后/背后的背后
 author: tom0li
 date: 2020-1-8 9:50:30
-tags: Awesome-Essence
+tags: Awesome-Essence/Plan/Awesome/Essence/原理/规则/规律/逻辑/Logic/背后/背后的背后
 toc: true
 ---
 

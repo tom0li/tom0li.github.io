@@ -50,16 +50,15 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
   - [文学](#文学)
 - [自然科学](#自然科学)
   - [科技趋势](#科技趋势)
+  - [人工智能(by tom0li)](#人工智能by-tom0li)
+    - [AICG](#aicg)
+      - [ChatGPT](#chatgpt)
+    - [人体改造](#人体改造)
+      - [脑机接口](#脑机接口)
   - [神经科学\&认知科学\&脑科学](#神经科学认知科学脑科学)
   - [医学](#医学)
   - [生物学](#生物学)
     - [why do we have sex](#why-do-we-have-sex)
-  - [人工智能(by tom0li)](#人工智能by-tom0li)
-    - [人体改造](#人体改造)
-      - [判断是否是机器人](#判断是否是机器人)
-    - [交互设备](#交互设备)
-      - [脑机接口](#脑机接口)
-      - [穿戴设备](#穿戴设备)
   - [培植肉 人造蛋](#培植肉-人造蛋)
   - [航空航天](#航空航天)
   - [宇宙学](#宇宙学)
@@ -456,6 +455,7 @@ https://github.com/tom0li/awesome-essence/blob/main/run.md
 1、科学技术  
 2、组织  
 3、信息舆论  
+4、资本
 
 #### 博弈论
 
@@ -499,8 +499,20 @@ NFT：个人认为主要看是谁的作品(即个人IP)和作品的价值。
 - [cell](https://www.cell.com/) 生物学顶刊
 - [darpa](https://www.darpa.mil/) 美国国防高等研究计划署
 - [WE大会](https://we.tencent.com/review.html) 腾讯科技WE大会
-- [2021年达摩院十大科技趋势](https://damo.alibaba.com/techtrends/)
-- [2020年达摩院十大技术趋势](https://damo.alibaba.com/events/58)
+
+## 人工智能(by tom0li)
+还比较遥远，目前处于机器学习阶段，是未来发展方向，但是以10-20年为单位推进。
+
+### AICG
+颠覆产业
+#### ChatGPT
+经济、社会、文化将会被重新塑造，目前openai处于AI前期阶段1%-3%。
+
+假设未来某一天交男女朋友，怎么判断是否是机器人?  
+error
+
+### 人体改造
+#### 脑机接口
 
 ## 神经科学&认知科学&脑科学
 刚发现一粒光，属于初级阶段。意识等话题还未入门。
@@ -527,18 +539,6 @@ NFT：个人认为主要看是谁的作品(即个人IP)和作品的价值。
 翻看一些期刊论文，文章是以科学出发论述的，从还原论建构主义出发，依旧没有回答why do we have sex、why reproduce。
 * [why-people-have-sex](https://www.webmd.com/sex-relationships/features/why-people-have-sex) 列出20个原因
 * [why do we have sex](https://www.youtube.com/watch?v=rTFqo81Ci_0) 从生物进化角度讲解
-
-## 人工智能(by tom0li)
-还比较遥远，目前处于机器学习阶段，是未来发展方向，但是以10-20年为单位推进。
-### 人体改造
-
-#### 判断是否是机器人
-假设未来某一天交男女朋友，怎么判断是否是机器人?  
-error
-
-### 交互设备
-#### 脑机接口
-#### 穿戴设备
 
 ## 培植肉 人造蛋
 高成本肉类培养合成，粮食供应效率，降低能量消耗，温室气体，土地占用。

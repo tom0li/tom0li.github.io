@@ -1221,7 +1221,7 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 
 ## 关于现金流(by tom0li)
 1、固定收入，解决基础生存问题。  
-2、大额资产(现金部分)，通过科学技术和组织方式，解决生产力和效率问题。  
+2、大额资产(现金部分)，通过科学技术、信息舆论、组织方式、资本，解决生产力和效率问题。  
 3、投资收益，提供养老物质资源。  
 
 ## 关于消费(by tom0li)

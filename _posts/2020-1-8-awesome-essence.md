@@ -138,6 +138,7 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
   - [关于勤俭节约(by tom0li)](#关于勤俭节约by-tom0li)
   - [关于现金流(by tom0li)](#关于现金流by-tom0li)
   - [关于消费(by tom0li)](#关于消费by-tom0li)
+  - [新加坡](#新加坡)
 - [职业](#职业)
   - [爸爸](#爸爸)
     - [情绪和内心](#情绪和内心)
@@ -684,6 +685,9 @@ error
 - 青山不改，不忘初心。  -by tom0li
 - 在事物当中愉悦  -by tom0li
 - 实践 80%思考20%行动  -by tom0li
+- 探索 ➔ 路线 ➔ 前进  -by tom0li
+- 兴奋、激动、热情、热血沸腾、热爱、陶醉、强烈、充满活力、激情、冒险、期待。  -by tom0li
+- 处理问题，多做，在做事中说话。  -by tom0li
 
 - 做饭是一种互动，和原材料、器物、火、水、气体。- by tom0li
 - 生物学家，在野外碰到某个动物，他会辨认它是属于哪个物种，想一想这个物种的习性，尽量总结并运用一些普遍有效的处理规则。达里欧
@@ -1318,6 +1322,9 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 商品或服务历史是什么？演化过程？  
 
 量入为出，适度消费，避免盲从，理性消费，保护环境，绿色消费，勤俭节约，艰苦奋斗。 -by 政治课本  
+
+## 新加坡
+http://www.mofcom.gov.cn/dl/gbdqzn/upload/xinjiapo.pdf
 
 ---
 

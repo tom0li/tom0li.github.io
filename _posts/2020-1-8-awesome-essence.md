@@ -125,9 +125,9 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
     - [游戏](#游戏)
     - [科幻小说](#科幻小说)
     - [纪录片](#纪录片)
+    - [旅行歌曲](#旅行歌曲)
     - [世博会](#世博会)
     - [商务部指南](#商务部指南)
-    - [VR](#vr)
     - [Google earth](#google-earth)
   - [画作为什么值钱(by tom0li)](#画作为什么值钱by-tom0li)
   - [灾难计划(by tom0li)](#灾难计划by-tom0li)
@@ -515,6 +515,7 @@ NFT：个人认为主要看是谁的作品(即个人IP)和作品的价值。
 ---
 
 # 自然科学
+新一代科技革命已经开始    -by tom0li 2020.10.01
 ## 科技趋势
 - [List_of_emerging_technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies#Agriculture)
 - [nature](https://www.nature.com/) 最早的科学期刊之一
@@ -527,12 +528,13 @@ NFT：个人认为主要看是谁的作品(即个人IP)和作品的价值。
 还比较遥远，目前处于机器学习阶段，是未来发展方向，但是以10-20年为单位推进。  
 目前进入深度学习阶段。
 
+影响  
 深刻的改造社会  
 大量人类无工作  
 ### AICG
-颠覆产业
+颠覆传统产业
 #### ChatGPT
-经济、社会、文化将会被重新塑造，目前openai处于AI前期阶段1%-3%，现在进入3-5%阶段。
+经济、社会、文化将会被重新塑造，目前openai处于AI前期阶段1%-3%，现在进入3%-5%阶段，现在进入5%-6%阶段。
 
 
 假设未来某一天交男女朋友，怎么判断是否是机器人?  
@@ -567,22 +569,15 @@ error
 * [why-people-have-sex](https://www.webmd.com/sex-relationships/features/why-people-have-sex) 列出20个原因
 * [why do we have sex](https://www.youtube.com/watch?v=rTFqo81Ci_0) 从生物进化角度讲解
 
-## 培植肉 人造蛋
+### 培植肉 人造蛋
 高成本肉类培养合成，粮食供应效率，降低能量消耗，温室气体，土地占用。
-
-## 全球变暖
-极端天气增加
 
 ## 航空航天
 星际探测
 
 ## 宇宙学
 研究宇宙的物理起源及其演化
-## 外来物种
 
-## 时间学
-时间是什么？  
-时间是不断分叉的，通向不同的路。
 ## 量子信息
 ### 量子通信
 #### 量子隐形传态
@@ -603,6 +598,12 @@ error
 降低计算数量级，最终算出多个结果，概率。
 ### 量子博弈
 
+## 时间学
+时间是什么？  
+时间是不断分叉的，通向不同的路。
+
+## 全球变暖
+极端天气增加
 
 -----
 
@@ -672,6 +673,7 @@ error
 - 人类是在一次又一次错误中学习，矛盾中学习，形成认识、获得思想，极高视野审视世界，思想螺旋式上升。  -by tom0li
 - 个人可影响的历史，是个人在特定环境下的选择，博弈的结果。在于总结过错，追根寻源，形成原则，判断决策，探索未来，影响世界。  -by tom0li
 - 探索无人之路  -by tom0li
+- 探索无人之境  -by tom0li
 - 自由的人  -by 马克思
 - 去环境内，去经历，只是去经历，在思考，向前看，形成文化。  -by tom0li
 - 不同时间发生事情叠加组合，合乎逻辑处理矛盾，本就是向前走路。  -by tom0li
@@ -1208,20 +1210,26 @@ https://artsandculture.google.com/explore
 ### 游戏  
 韩流综艺游戏、元宇宙游戏、主机游戏
 
+VR等多种R  
+https://www.youtube.com/channel/UCnO5ygba3vsJG9IeZLndaTQ
+
 ### 科幻小说  
 小说里的想象力，人类可以走到哪里
 
 ### 纪录片  
 太空  
-地球
+地球  
+拍摄Vlog Plog  
+
+### 旅行歌曲
+历史歌曲
 
 ### 世博会
+各种展览会
 
 ### 商务部指南  
+详细介绍各国及城市
 http://fec.mofcom.gov.cn/article/gbdqzn/index.shtml
-
-### VR  
-https://www.youtube.com/channel/UCnO5ygba3vsJG9IeZLndaTQ
 
 ### Google earth
 

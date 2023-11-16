@@ -19,8 +19,8 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
 
 - [哲学](#哲学)
     - [哲学问题](#哲学问题)
-      - [元意义(by tom0li)](#元意义by-tom0li)
-      - [自由意志(by tom0li)](#自由意志by-tom0li)
+      - [元意义](#元意义)
+      - [自由意志](#自由意志)
       - [人类到哪里去](#人类到哪里去)
     - [美学](#美学)
       - [戏曲歌剧影视](#戏曲歌剧影视)
@@ -50,7 +50,7 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
   - [文学](#文学)
 - [自然科学](#自然科学)
   - [科技趋势](#科技趋势)
-  - [人工智能(by tom0li)](#人工智能by-tom0li)
+  - [人工智能](#人工智能)
     - [AICG](#aicg)
       - [ChatGPT](#chatgpt)
     - [人体改造](#人体改造)
@@ -190,10 +190,10 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
 
 # 哲学
 ### 哲学问题
-#### 元意义(by tom0li)
+#### 元意义
 活着(不仅指生命活着、公司活着、所做的事业事情活着)
 
-#### 自由意志(by tom0li)
+#### 自由意志
 背景:  
 关于自由意志，不同科学家有不同的实验、模型，到目前没有证明该事情。  
 之前知道此事是通过国外电影探讨过程中了解的，当时认为是按不同想法，不同行为要区分对待。  
@@ -223,10 +223,8 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
 全球、评分在6分以上/10分制、所有题材(历史、剧情、科幻等)、类型(长短电影、真人秀非真人等)影视遍历。
 
 - 歌剧 悲惨世界十周年 https://www.bilibili.com/video/BV1ks411f7zK
-
 #### 绘画&建筑雕塑
 https://artsandculture.google.com/
-
 #### 舞蹈 舞剧
 
 ### 宗教哲学
@@ -535,7 +533,7 @@ NFT：个人认为主要看是谁的作品(即个人IP)和作品的价值。
 - [darpa](https://www.darpa.mil/) 美国国防高等研究计划署
 - [WE大会](https://we.tencent.com/review.html) 腾讯科技WE大会
 
-## 人工智能(by tom0li)
+## 人工智能
 还比较遥远，目前处于机器学习阶段，是未来发展方向，但是以10-20年为单位推进。  
 目前进入深度学习阶段。  
 影响  

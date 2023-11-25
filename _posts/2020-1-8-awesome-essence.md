@@ -185,6 +185,7 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
   - [项目经理](#项目经理)
   - [非传统艺术家](#非传统艺术家)
   - [画家](#画家)
+- [版权声明](#版权声明)
 
 # 哲学
 ### 哲学问题
@@ -1090,6 +1091,8 @@ https://qianling.pw/battery/
 
 2010年后房子质量在70年之上  
 15年换一次新房  
+
+https://weibo.com/1401527553/Nu1mIdPcj
 
 ## 关于房地产
 (奇帆)拐点：
@@ -4814,3 +4817,7 @@ http://fr.china-embassy.gov.cn/ttxw/202212/t20221214_10990094.htm
 
 ## 画家
 如果不能和现代科学技术结合起来，传统画家将靠边站。
+
+# 版权声明
+本网站所有原创作品，其版权属于本网站所有。如转载须注明文章来源。  
+The copyright of all original works on this website belongs to this website. If reproduced must indicate the source of the article.

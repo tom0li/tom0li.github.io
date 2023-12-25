@@ -1351,7 +1351,7 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 3、预测中概股应离场不入场  
 4、预测Apple股票趋势  
 5、预测AI大模型趋势相关股票出入场时机  
-6、etc
+6、预测2021-今天中国宏观经济，因个人原因没预测2021之前的宏观经济。  
 
 ## 关于消费(by tom0li)
 消费产品或服务过程中需要建立起 个人的判断标准，以这个原则或规则加以判断。  

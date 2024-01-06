@@ -45,10 +45,9 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
 - [自然科学](#自然科学)
   - [科技趋势](#科技趋势)
   - [人工智能](#人工智能)
-    - [AICG](#aicg)
+    - [AIGC](#aigc)
       - [ChatGPT](#chatgpt)
-    - [人体改造](#人体改造)
-      - [脑机接口](#脑机接口)
+    - [机器人与接口](#机器人与接口)
   - [区块链](#区块链)
   - [元宇宙](#元宇宙)
   - [量子信息](#量子信息)
@@ -517,7 +516,7 @@ https://github.com/tom0li/awesome-essence/blob/main/run.md
 目前进入深度学习阶段。  
 
 影响  深刻的改造社会，大量人类失业。  
-### AICG
+### AIGC
 颠覆传统产业
 #### ChatGPT
 经济、社会、文化将会被重新塑造，目前openai处于AI前期阶段1%-3%，现在进入3%-5%阶段，现在进入5%-6%阶段。2024进入加速阶段。
@@ -525,8 +524,8 @@ https://github.com/tom0li/awesome-essence/blob/main/run.md
 假设未来某一天交朋友，怎么判断是否是机器人?  
 error
 
-### 人体改造
-#### 脑机接口
+### 机器人与接口
+脑机结合智能生物、机机合作智能系统
 
 ## 区块链
 区块链是一个颠覆的创造，在金融领域构建了新的金融市场，填补了一些需求。  

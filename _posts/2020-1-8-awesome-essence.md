@@ -496,7 +496,8 @@ https://github.com/tom0li/awesome-essence/blob/main/run.md
 - [Marketing-for-Engineers 营销产品](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
 
 ### 财政税务
-
+![人人都是纳税人](https://wx4.sinaimg.cn/mw690/53899d01ly1hn6tox4jaij20xp0rj7f4.jpg)
+![阿宏一天生活需要缴的税](https://wx2.sinaimg.cn/mw690/53899d01ly1hn6tl1wsapj20xd1k77wh.jpg)  
 ## 文学
 文学交叉严重故不列出
 
@@ -818,7 +819,7 @@ NFT：个人认为主要看是谁的作品(即个人IP)和作品的价值。
 - 进化则活着，矛盾则活着 - by tom0li
 - 联合好身体的每个细胞，统一思想，团结协作，合众为一 是人类发展快的底层逻辑。由强烈兴趣驱动去玩也是是人类发展快的底层逻辑。 - by tom0li
 - 广大人民的根本利益是 底层规律 之一，从国家来看解释为"三个有利于"，从人类社会来看解释为全人类的生存和发展。 - by tom0li
-- 顺势：广大人民。如何避免站到广大人民对立面？古希腊文明的政治制度对比 元朝国家制度，是人民和国家的平衡。历史将产生新的组织形式。  -by tom0li
+- 顺势：广大人民。如何避免站到广大人民对立面？古希腊文明的政治制度对比元朝国家制度，是人民和国家的平衡。历史将产生新的组织形式，合作多样。  -by tom0li
 - 精神物质，两个 组织或个人，在精神上无法形成有效交流、在物质上无相互依赖，将保持距离。  -by tom0li
 - 人只能以自身为原点，向外扩展。(目前来看)    -by tom0li
 - 事物的发展是连续的  -by tom0li
@@ -1376,9 +1377,11 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 
 预测2024年未来十年纳斯达克100有一定幅度上涨，不会特别多比如万倍，不会特别少比如1倍。  
 教育培训头部公司向上走一段。  
+预测2023年初-2024年中BTC向上走一段。ETH在2024向上走一段。  
+预测Apple未来三年有一定幅度上涨。  
+未来十年马斯克的公司潜力巨大。  
 
-
-预测事实:  
+历史预测事实:  
 1、预测虚拟货币ETH BTC 趋势  
 2、预测特斯拉股票趋势  
 3、预测中概股应离场不入场  

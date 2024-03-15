@@ -133,6 +133,7 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
   - [关于金钱观(by tom0li)](#关于金钱观by-tom0li)
   - [美股熔断](#美股熔断)
   - [关于现金流(by tom0li)](#关于现金流by-tom0li)
+  - [关于预测(by tom0li)](#关于预测by-tom0li)
   - [关于消费(by tom0li)](#关于消费by-tom0li)
   - [关于勤俭节约(by tom0li)](#关于勤俭节约by-tom0li)
   - [关于买包包(by tom0li)](#关于买包包by-tom0li)
@@ -1373,13 +1374,17 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 1、固定收入，解决基础生存问题。  
 2、大额资产，通过科学技术、信息舆论、组织方式、资本，解决生产力和效率问题。投资收益。  
 
+## 关于预测(by tom0li)
 2024年未来十年**纳斯达克100**有一定幅度上涨，不会特别多比如万倍，不会特别少比如1倍。  
-**教育培训**头部公司向上走一段。  
-2023年初-2024年中**BTC**向上走一段。
-2024年**ETH**向上走一段。  
+2023年**教育培训**头部公司向上走一段。  
 未来三年**Apple**有一定幅度上涨。  
+2023年初-2024年中**BTC**向上走一段。  
+2024年**ETH**向上走一段。  
 未来十年**马斯克**的公司潜力巨大。  
-2023年-2026年**英伟达**向上走一大段。
+2023年-2026年**英伟达**向上走一大段。  
+google  
+meta  
+微软  
 
 历史预测事实:  
 1、预测虚拟货币ETH BTC 趋势  

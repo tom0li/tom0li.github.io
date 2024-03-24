@@ -1375,8 +1375,8 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 
 ## 关于市场预测(by tom0li)
 2023年-2026年**NVDA**向上走一大段  
-GOOGL 持有  
-BTC ETF IBIT(2024.06卖，2024.10买，2025观察持有)  
+GOOGL  
+BTC ETF IBIT  
 
 
 

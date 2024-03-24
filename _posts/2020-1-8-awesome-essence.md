@@ -1375,8 +1375,8 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 
 ## 关于市场预测(by tom0li)
 2023年-2026年**NVDA**向上走一大段  
-GOOGL  
-BTC ETF IBIT  
+GOOGL 向上走一段  
+BTC ETF IBIT 向上走一大段  
 
 
 
@@ -1399,8 +1399,8 @@ OXY 向上走一段
 未来三年**AAPL**有一定幅度上涨。  
 MSFT  
 META  
-2023年初-2024年中**BTC**向上走一段。  
-2024年**ETH**向上走一段。  
+2023年-2025年**BTC**向上走一段。  
+2024年-2025年**ETH**向上走一段。  
 
 历史预测事实:  
 1、预测 ETH 趋势  

@@ -106,7 +106,7 @@ author:
   name             : "Li Zi（李紫）"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Security Research"
-  location         : "Singapore/Seattle"
+  location         : "Singapore"
   email            : "tom0y1@protonmail.com"
   links:
     # - label: "Email"

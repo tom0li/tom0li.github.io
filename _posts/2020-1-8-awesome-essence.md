@@ -69,7 +69,7 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
   - [时间学](#时间学)
   - [全球变暖](#全球变暖)
 - [观点(给自己记录，缺少很多内容)](#观点给自己记录缺少很多内容)
-  - [tom0li语录](#tom0li语录)
+  - [tom0li部分语录](#tom0li部分语录)
   - [关于哲学(by tom0li)](#关于哲学by-tom0li)
   - [关于底层规律(by tom0li)](#关于底层规律by-tom0li)
   - [关于利用科学技术(by tom0li)](#关于利用科学技术by-tom0li)
@@ -498,8 +498,11 @@ https://github.com/tom0li/awesome-essence/blob/main/run.md
 - [Marketing-for-Engineers 营销产品](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
 
 ### 财政税务
-![人人都是纳税人](https://wx4.sinaimg.cn/mw690/53899d01ly1hn6tox4jaij20xp0rj7f4.jpg)
-![阿宏一天生活需要缴的税](https://wx2.sinaimg.cn/mw690/53899d01ly1hn6tl1wsapj20xd1k77wh.jpg)  
+之前缴税三险一金，现在七险二金。  
+![工资与税金](https://raw.githubusercontent.com/tom0li/tom0li.github.io/main/assets/images/工资与税金.jpg)  
+![人人都是纳税人](https://raw.githubusercontent.com/tom0li/tom0li.github.io/main/assets/images/人人都是纳税人.jpg)  
+![阿宏一天生活需要缴的税](https://raw.githubusercontent.com/tom0li/tom0li.github.io/main/assets/images/阿宏一天生活需要缴的税.jpg)  
+房地产纳税较为特别。  
 ## 文学
 文学交叉严重故不列出
 
@@ -622,7 +625,7 @@ NFT：个人认为主要看是谁的作品(即个人IP)和作品的价值。
 -----
 
 # 观点(给自己记录，缺少很多内容)
-## tom0li语录
+## tom0li部分语录
 - 改造客观世界与主观世界的联系  - by tom0li
 - 抽离出来，客观看人与人交互原理、人与物交互原理。 - by tom0li
 - 主客观统一 - by 李瑞环
@@ -1054,7 +1057,7 @@ https://tom0li.github.io/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/
 具体部门小组具体分析，不同小组可能差异巨大。  
 国家资本，民间资本。  
 创始人、投资人、控制人。  
-使人类活着、改革社会运行合作系统、程序解决安全问题  
+使人类活着、改革社会运行合作系统、程序解决安全问题。  
 在客观环境下自由实践。  
 
 ## 关于薪水(by tom0li)  
@@ -1114,17 +1117,16 @@ https://tom0li.github.io/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/
 https://qianling.pw/battery/
 
 ## 关于房(by tom0li)
+好房子好地像资产，不好的房子不好的地像期权(随时间归零)。  
 在2021处于 上班阶段节点；早前的购房计划节点。  当时判断房地产情况：  
 一、如果要购房，在北京等国际化城市核心区域(预计数千万，暂时无资金)。  
 二、不买房(房地产和个人情况，1、制度不完善，2、投资回报率低，3、不是刚需、有替代选项，4、学区房不是唯一解，5、地理位置未确定，6、税收，7、人口结构、生育率，8、其它，9、相信个人判断)。  
 
 为什么买房?  
 假如在国内上学?  
-
 2010年后房子质量在70年之上  
 15年换一次新房  
-
-https://weibo.com/1401527553/Nu1mIdPcj
+https://weibo.com/1401527553/Nu1mIdPcj  
 
 ## 关于房地产
 (奇帆)拐点：

@@ -29,15 +29,15 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
     - [宗教哲学](#宗教哲学)
 - [社会科学](#社会科学)
   - [历史学](#历史学)
-    - [历史人(by tom0li)](#历史人by-tom0li)
-    - [润之(by tom0li)](#润之by-tom0li)
+    - [历史人](#历史人)
+    - [润之](#润之)
     - [huning](#huning)
   - [法学](#法学)
   - [社会学\&人类学](#社会学人类学)
   - [组织行为学](#组织行为学)
   - [经济](#经济)
-      - [价值(by tom0li)](#价值by-tom0li)
-      - [放大器(by tom0li)](#放大器by-tom0li)
+      - [价值](#价值)
+      - [放大器](#放大器)
       - [博弈论](#博弈论)
     - [市场营销](#市场营销)
     - [财政税务](#财政税务)
@@ -106,8 +106,8 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
   - [为什么不放开生育(by tom0li)](#为什么不放开生育by-tom0li)
   - [关于生育率低-人口问题(by TK)](#关于生育率低-人口问题by-tk)
   - [关于避孕药(by TK)](#关于避孕药by-tk)
-  - [关于前列腺炎](#关于前列腺炎)
-  - [关于锂电池保养](#关于锂电池保养)
+  - [关于前列腺炎(by tom0li)](#关于前列腺炎by-tom0li)
+  - [关于锂电池保养(by tom0li)](#关于锂电池保养by-tom0li)
   - [关于房(by tom0li)](#关于房by-tom0li)
   - [关于房地产](#关于房地产)
   - [关于住房攻略(by tom0li)](#关于住房攻略by-tom0li)
@@ -129,7 +129,7 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
   - [画作为什么值钱(by tom0li)](#画作为什么值钱by-tom0li)
   - [灾难计划(by tom0li)](#灾难计划by-tom0li)
     - [非常时期囤货手册](#非常时期囤货手册)
-    - [关于短期停电物资准备](#关于短期停电物资准备)
+    - [关于短期停电物资准备(by tom0li)](#关于短期停电物资准备by-tom0li)
   - [关于未来安全(by tom0li)](#关于未来安全by-tom0li)
   - [关于金钱观(by tom0li)](#关于金钱观by-tom0li)
   - [关于现金流(by tom0li)](#关于现金流by-tom0li)
@@ -137,7 +137,7 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
   - [关于消费(by tom0li)](#关于消费by-tom0li)
   - [关于勤俭节约(by tom0li)](#关于勤俭节约by-tom0li)
   - [新加坡](#新加坡)
-  - [美国](#美国)
+  - [美国(by tom0li)](#美国by-tom0li)
 - [职业](#职业)
   - [爸爸](#爸爸)
     - [情绪和内心](#情绪和内心)
@@ -159,7 +159,7 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
     - [关于攻坚性项目的一些建议](#关于攻坚性项目的一些建议)
     - [如何说服自己的leader](#如何说服自己的leader)
     - [技术人员发展四阶段(关于安全的职业经验不止这一个，为什么把这个贴出来，因为他对个人发展阶段进行自我辩论比较好。by Monyer)](#技术人员发展四阶段关于安全的职业经验不止这一个为什么把这个贴出来因为他对个人发展阶段进行自我辩论比较好by-monyer)
-    - [计算机面试要求(by tom0li)](#计算机面试要求by-tom0li)
+    - [计算机面试要求](#计算机面试要求)
     - [面试中需要回答或考虑的问题](#面试中需要回答或考虑的问题)
     - [工作中需要了解和考虑的问题](#工作中需要了解和考虑的问题)
     - [什么样的老板值得跟随 by 道哥](#什么样的老板值得跟随-by-道哥)
@@ -236,7 +236,7 @@ https://artsandculture.google.com/
 
 # 社会科学
 ## 历史学
-### 历史人(by tom0li)
+### 历史人
 关于历史人的描述是不断更新的，其他人也可添加自己的描述。
 ```
 孙中山 - 有我的号召民族站立，有我的伟大人格，无我的民权，我的做事精神。
@@ -455,7 +455,7 @@ monyer   - 安全管理人员
 信息安全人员还有2000多个不再一一列出
 ```
 
-### 润之(by tom0li)
+### 润之
 https://github.com/tom0li/awesome-essence/blob/main/run.md
 
 ### huning
@@ -477,7 +477,7 @@ https://github.com/tom0li/awesome-essence/blob/main/run.md
 李丰投资理论  
 比尔盖茨碳模型  
 
-#### 价值(by tom0li)
+#### 价值
 1、物质  
 比如苹果   
 2、信息  
@@ -485,7 +485,7 @@ https://github.com/tom0li/awesome-essence/blob/main/run.md
 3、能量  
 比如精神能量：音乐 性等等  
 
-#### 放大器(by tom0li)
+#### 放大器
 1、科学技术  
 2、组织  
 3、信息舆论  
@@ -1111,10 +1111,10 @@ https://tom0li.github.io/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/
 
 医学是科学。科学最大的特点就是可以接受新的证据新的结论，可以自我更新完善。但并不是所有人都那么容易接受新东西。六十年前人们接受避孕药也并不容易。讽刺的是，当年为了让人们易于接受避孕药所采取的服用方式，今天想更改，也很不容易。
 
-## 关于前列腺炎
+## 关于前列腺炎(by tom0li)
 前列腺炎诱发因素，主要有：吸烟、饮酒、辛辣、不适当性活动、久坐引起前列腺长期充血和盆地肌肉长期慢性挤压、受凉、疲劳等导致机体抵抗力下降或特异体质。
 
-## 关于锂电池保养
+## 关于锂电池保养(by tom0li)
 根据多类资料比对，基本认同对锂电池的分析。  
 https://qianling.pw/battery/
 
@@ -1349,7 +1349,7 @@ https://card.weibo.com/article/m/show/id/2309404740707515499405
 ### 非常时期囤货手册
 https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 
-### 关于短期停电物资准备
+### 关于短期停电物资准备(by tom0li)
 - 照明与取暖：蜡烛、打火机、电灯、酒精、棉服衣物。
 - 电源：太阳能充电板、备用电源、充电宝。
 - 储备水：水桶、保温杯、锅具。
@@ -1434,8 +1434,9 @@ Web3
 ## 新加坡
 http://www.mofcom.gov.cn/dl/gbdqzn/upload/xinjiapo.pdf
 
-## 美国
-自由科技
+## 美国(by tom0li)
+自由科技  
+竞争者已经到达顶峰，迎来下个。
 
 ---
 
@@ -2474,7 +2475,7 @@ leader也是人嘛，是人，当然就有正常沟通的需要，只要不是�
 好了，本文讲了这么多，也到了最后的收尾阶段。回想起来，我在做纯粹技术输出的那几年是最开心的几年。可以无忧无虑地学习最新知识，研究各种各样的新鲜技术，捣鼓各型各色的有趣玩意儿……不用去考虑业务发展、职位发展和工作安排——那些都是产品经理、技术经理和leader的事儿，对我来说他们安排下来什么只要干就是了。然而，就跟蜘蛛侠他大爷说的一样：“能力越大，责任越大”。随着年龄的增长，在人生的工作路途上，我们这些普通人很难安于现状，只有不断努力、不断进步、不断突破，才能换来更美好的生活。
 ```
 
-### 计算机面试要求(by tom0li)
+### 计算机面试要求
 ```
 计算机基础  
 提出问题能力  

@@ -1538,7 +1538,6 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 
 ## 关于市场预测
 历史预测:  
-1、预测 ETH 趋势  
 2、预测 BTC 趋势  
 3、预测 2017 - 至今 TSLA 股票趋势  
 4、预测 AAPL 股票趋势  
@@ -1546,9 +1545,9 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 6、判断 2021 - 今天中国宏观经济，因个人原因未判断2021之前的宏观经济。2017节点2012节点2007节点1987节点。判断中概股应离场不入场  
 7、预测 2024.10.1 开始，BTC 起。  
 8、预测 2025.1.6 - 2025.1.25 开始，BTC 起。  
-9、预测 2025 BTC 150000左右区间。   
+9、预测 2025 BTC 高峰区间 $150000 ± $10000。   
 10、预测 2025 GOOGL、AMZN 股票趋势。  
-11、预测 2025 NVDA、TSLA  
+11、预测 2025 NVDA、TSLA 股票趋势。  
 
 ---
 

@@ -1552,7 +1552,8 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 9、预测 2025 BTC 高峰区间 $150000 - $200000。  
 
 10、预测 未来几月 MSTR 股票峰值 800 - 1000。  
-11、预测 长期看好 NVDA、TSLA 股票趋势。最近暴跌是机会。2025 TSLA FSD。  
+11、预测 长期看好 NVDA、TSLA 股票趋势。最近暴跌是机会。  
+12、预测 2025.6 - 2025.12 TSLA FSD，提前布局未来5年。  
 
 ---
 

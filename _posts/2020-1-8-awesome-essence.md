@@ -1580,6 +1580,7 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 7、预测 2024.10.1 开始，BTC 起。  
 8、预测 2025.9 左右 BTC 起。  
 9、预测 BTC 未来几年价格到 1M  
+10、预测 BTC 下一次价格 0.5M ± 0.1M  
 11、预测 长期看好 NVDA、TSLA 股票趋势。最近暴跌是机会。短期不看好。  
 12、观察 2026 - 2030 RKLB  
 13、2040 年前将有 10 亿成本较低双足机器人，完成绝大多数体力劳动。  

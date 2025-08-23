@@ -1574,7 +1574,7 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 
 ---
 
-BTC MSTR RKLB TSLA CRCL Anduril
+BTC MSTR CRWV RKLB Anduril TSLA
 
 ---
 

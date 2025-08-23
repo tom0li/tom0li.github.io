@@ -1566,11 +1566,12 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 9、预测 BTC 未来几年价格到 1M  
 10、预测 BTC 下一次价格 0.5M ± 0.1M  
 11、预测 长期看好 NVDA、TSLA 股票趋势。最近暴跌是机会。短期不看好。  
-12、观察 2026 - 2030 RKLB  
+12、预测 RKLB 趋势  
 13、2040 年前将有 10 亿成本较低双足机器人，完成绝大多数体力劳动。  
 14、预测 CRCL IPO 趋势  
 15、预测 第一次公开关系破裂后，马斯克会更多的参与政治，股价承压，长期基本面看好，机会。  
 16、预测 Anduril 趋势  
+17、预测 CRWV 趋势  
 
 ---
 

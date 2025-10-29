@@ -1574,6 +1574,8 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 15、预测 第一次公开关系破裂后，马斯克会更多的参与政治，股价承压，长期基本面看好，机会。  
 16、预测 Anduril 趋势  
 17、预测 CRWV 趋势  
+18、预测 2035 前后量子威胁  
+19、预测 十年内可能统一  
 
 ---
 

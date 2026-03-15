@@ -47,6 +47,7 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
 - [自然科学](#自然科学)
   - [人工智能](#人工智能)
     - [GPT](#gpt)
+    - [World Models](#world-models)
     - [FSD](#fsd)
     - [机器人](#机器人)
   - [AR \& VR](#ar--vr)
@@ -638,6 +639,7 @@ monyer   - 安全管理人员
 目前比较遥远。  
 目前处于机器学习阶段，是未来发展方向，但是以10-20年为单位推进。  
 目前进入深度学习阶段、强化学习。  
+目前距离AGI时间不长，预计2035年左右实现AGI。  
 
 The Intelligence Curse (Luke Drago & Rudolf Laine)  
 
@@ -658,6 +660,8 @@ AI 将参与军事决策。
 ### GPT
 颠覆传统产业  
 经济、社会、文化、政治将会被重新塑造，目前OpenAI处于AI前期阶段1%-3%。2024进入加速阶段。现在进入5%阶段。GPT-5发布，进入10%阶段。
+
+### World Models
 
 ### FSD
 
@@ -1577,7 +1581,6 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 13、2040 年前将有 10 亿成本较低双足机器人，完成绝大多数体力劳动。  
 14、预测 CRCL IPO 趋势  
 15、预测 第一次公开关系破裂后，马斯克会更多的参与政治，股价承压，长期基本面看好，机会。  
-16、预测 Anduril 趋势  
 17、预测 CRWV 趋势  
 18、预测 2026 底 AI企业增速阶段峰值  
 19、预测 2035 前后量子威胁  
@@ -1586,7 +1589,7 @@ https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 
 ---
 
-XAU BTC MSTR RKLB Anduril TSLA
+XAU BTC MSTR RKLB TSLA TEM
 
 ---
 
